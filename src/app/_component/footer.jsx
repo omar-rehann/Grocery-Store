@@ -41,7 +41,7 @@ at the best prices — always fresh, always fast.
           <div>
             <h3 className="text-lg font-semibold mb-4">Support</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a className="hover:text-white" href="#">FAQ</a></li>
+              <li><a className="hover:text-white" href="#">Home</a></li>
               <li><a className="hover:text-white" href="#">Help Center</a></li>
               <li><a className="hover:text-white" href="#">Privacy Policy</a></li>
               <li><a className="hover:text-white" href="#">Terms of Service</a></li>
